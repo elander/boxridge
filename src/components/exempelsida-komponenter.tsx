@@ -15,13 +15,6 @@ export function Logga() {
     );
 }
 
-export function Hero({children}: {children: React.ReactNode}) {
-    return (
-        <div>
-            {children}
-        </div>
-    );
-}
 export function Footer({children}: {children: React.ReactNode}) {
     return (
         <div>

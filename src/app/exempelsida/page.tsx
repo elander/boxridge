@@ -1,4 +1,5 @@
-import  { Meny, Hero,Logga,Footer, Herobild, Herotext }  from "../../components/exempelsida-komponenter";   
+import  { Meny, Logga,Footer, Herotext }  from "../../components/exempelsida-komponenter";   
+import { Hero } from "@/components/Hero";
 
 
 
